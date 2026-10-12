@@ -66,4 +66,4 @@ A positive claim concerns literal published wheel tags, existentially projecting
 
 The contribution must be read alongside Green et al., *Provenance Semirings* (PODS 2007); Fatahi Bayat et al., *FLEEK* (EMNLP 2023); Liu et al., *BeyondAtoms/CARVE* (2026 author-released manuscript); Alvarez et al., *ProvenanceGuard* (arXiv:2606.18037); Buchmann and Gurevych, *Citation Failure* (TACL 2026); and Feng et al., *Hyper-RAG* (Nature Communications 2026). These establish that provenance, relational factuality, and higher-order evidence are prior art.
 
-This artifact accompanies a working manuscript. It is not an accepted or submitted NAACL paper.
+This artifact accompanies NAACL 2027 Industry Track submission #22, submitted October 12, 2026. It has not been accepted or peer reviewed. Submission record: https://openreview.net/forum?id=8xuQ6eMaGE.
