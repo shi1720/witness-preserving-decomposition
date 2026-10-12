@@ -1,0 +1,422 @@
+[
+  {
+    "package": "aiohttp",
+    "url": "https://pypi.org/pypi/aiohttp/json",
+    "sha256": "cfcf228e6b87f966a0c34e2eb65ae8fc372fe22df276ada678c266c6501ad796",
+    "selected_versions": [
+      "3.14.5",
+      "3.14.4",
+      "3.14.3",
+      "3.14.2",
+      "3.14.1",
+      "3.14.0",
+      "3.13.5",
+      "3.13.4"
+    ]
+  },
+  {
+    "package": "cffi",
+    "url": "https://pypi.org/pypi/cffi/json",
+    "sha256": "ea59a663b5779e4e6bca654cfa65fcbae449a08ecd5ed576b6cbbed0c77d90fc",
+    "selected_versions": [
+      "2.1.1",
+      "2.1.0",
+      "2.0.0",
+      "1.17.1",
+      "1.17.0",
+      "1.16.0",
+      "1.15.1",
+      "1.15.0"
+    ]
+  },
+  {
+    "package": "cryptography",
+    "url": "https://pypi.org/pypi/cryptography/json",
+    "sha256": "32975256deff83cfe92bfcb93233debf77ddc6e8222b2227dec5f45094173d66",
+    "selected_versions": [
+      "50.0.2",
+      "50.0.1",
+      "50.0.0",
+      "49.0.0",
+      "48.0.1",
+      "48.0.0",
+      "47.0.0",
+      "46.0.7"
+    ]
+  },
+  {
+    "package": "greenlet",
+    "url": "https://pypi.org/pypi/greenlet/json",
+    "sha256": "c0abd3ae91981a8ed54e5e968eea63cd068e719662a2d8be6a398c94aa64db5e",
+    "selected_versions": [
+      "3.5.6",
+      "3.5.5",
+      "3.5.4",
+      "3.5.3",
+      "3.5.2",
+      "3.5.1",
+      "3.5.0",
+      "3.4.0"
+    ]
+  },
+  {
+    "package": "grpcio",
+    "url": "https://pypi.org/pypi/grpcio/json",
+    "sha256": "7a701cf07a973baec22941ffef2bcad460bb6e0236f58c52f0f06ae42db0d41b",
+    "selected_versions": [
+      "1.84.0",
+      "1.83.1",
+      "1.83.0",
+      "1.82.2",
+      "1.82.1",
+      "1.81.1",
+      "1.81.0",
+      "1.80.0"
+    ]
+  },
+  {
+    "package": "h5py",
+    "url": "https://pypi.org/pypi/h5py/json",
+    "sha256": "8d5cd2b3178923f2a72b631e8889549ba19964ca3e71127f8c19a22b596422c4",
+    "selected_versions": [
+      "3.16.0",
+      "3.15.1",
+      "3.15.0",
+      "3.14.0",
+      "3.13.0",
+      "3.12.1",
+      "3.11.0",
+      "3.10.0"
+    ]
+  },
+  {
+    "package": "jaxlib",
+    "url": "https://pypi.org/pypi/jaxlib/json",
+    "sha256": "54ecba2c455c7f253d2937b97cb7d3b4edfb08c922678597591497d34394486f",
+    "selected_versions": [
+      "0.11.2",
+      "0.11.1",
+      "0.11.0",
+      "0.10.2",
+      "0.10.1",
+      "0.10.0",
+      "0.9.2",
+      "0.9.1"
+    ]
+  },
+  {
+    "package": "llvmlite",
+    "url": "https://pypi.org/pypi/llvmlite/json",
+    "sha256": "98f65a1fedc1b30730d20c6cfd639e5ad7501570c728580c90a402e9d5d83561",
+    "selected_versions": [
+      "0.50.0",
+      "0.49.0",
+      "0.48.0",
+      "0.47.0",
+      "0.46.0",
+      "0.45.1",
+      "0.45.0",
+      "0.44.0"
+    ]
+  },
+  {
+    "package": "lxml",
+    "url": "https://pypi.org/pypi/lxml/json",
+    "sha256": "30dda8543e22202de5603da9e688a856cec2169ea89bce5a38a5f11705029adf",
+    "selected_versions": [
+      "6.1.3",
+      "6.1.2",
+      "6.1.1",
+      "6.1.0",
+      "6.0.4",
+      "6.0.3",
+      "6.0.2",
+      "6.0.1"
+    ]
+  },
+  {
+    "package": "ml-dtypes",
+    "url": "https://pypi.org/pypi/ml-dtypes/json",
+    "sha256": "56bd40efc8ab66872908e75e68c389d072e66c838691254cfe4e5c27f4dd542f",
+    "selected_versions": [
+      "0.6.0",
+      "0.5.4",
+      "0.5.3",
+      "0.5.1",
+      "0.5.0",
+      "0.4.1",
+      "0.4.0",
+      "0.3.2"
+    ]
+  },
+  {
+    "package": "numba",
+    "url": "https://pypi.org/pypi/numba/json",
+    "sha256": "107e400bb71d4cb2c5afbeb928f24f2ee649771badfbf33f6f1f40bb3c2390ba",
+    "selected_versions": [
+      "0.68.0",
+      "0.67.0",
+      "0.66.0",
+      "0.65.1",
+      "0.65.0",
+      "0.64.0",
+      "0.63.1",
+      "0.63.0"
+    ]
+  },
+  {
+    "package": "numpy",
+    "url": "https://pypi.org/pypi/numpy/json",
+    "sha256": "04d4e3541780ecbe4ba1db99fd3250f11bb69693e0366a134fb59b18237fc69a",
+    "selected_versions": [
+      "2.5.4",
+      "2.5.3",
+      "2.5.2",
+      "2.5.1",
+      "2.5.0",
+      "2.4.6",
+      "2.4.5",
+      "2.4.4"
+    ]
+  },
+  {
+    "package": "onnxruntime",
+    "url": "https://pypi.org/pypi/onnxruntime/json",
+    "sha256": "41c0e4e818f8029758efd42e1ffa898213f10ba9bdd1c527a82c978cbceeaa01",
+    "selected_versions": [
+      "1.31.0",
+      "1.30.0",
+      "1.29.0",
+      "1.28.0",
+      "1.27.0",
+      "1.26.0",
+      "1.25.1",
+      "1.25.0"
+    ]
+  },
+  {
+    "package": "opencv-python",
+    "url": "https://pypi.org/pypi/opencv-python/json",
+    "sha256": "5e22013a4d62b7191d314c106587f0e9aeb09ff9bbfa68925bf0e74b27bc1772",
+    "selected_versions": [
+      "5.0.0.93",
+      "4.14.0.94",
+      "4.13.0.92",
+      "4.13.0.90",
+      "4.12.0.88",
+      "4.11.0.86",
+      "4.10.0.84",
+      "4.10.0.82"
+    ]
+  },
+  {
+    "package": "orjson",
+    "url": "https://pypi.org/pypi/orjson/json",
+    "sha256": "2f32024b4f416576a4374cf0d6cad7f23799b571c08167f1af793690d49999d8",
+    "selected_versions": [
+      "3.13.0",
+      "3.12.0",
+      "3.11.9",
+      "3.11.8",
+      "3.11.7",
+      "3.11.6",
+      "3.11.5",
+      "3.11.4"
+    ]
+  },
+  {
+    "package": "pandas",
+    "url": "https://pypi.org/pypi/pandas/json",
+    "sha256": "5c86b55b6c5631a3765f6853a4e46dba412b187efbdce71d14d4d14f0dae1a24",
+    "selected_versions": [
+      "3.0.6",
+      "3.0.5",
+      "3.0.3",
+      "3.0.2",
+      "3.0.1",
+      "3.0.0",
+      "2.3.3",
+      "2.3.2"
+    ]
+  },
+  {
+    "package": "pillow",
+    "url": "https://pypi.org/pypi/pillow/json",
+    "sha256": "81b232ef242999ca15e2979a8edf4df719134e0ec6283f2008497016ceacdb72",
+    "selected_versions": [
+      "12.3.0",
+      "12.2.0",
+      "12.1.1",
+      "12.1.0",
+      "12.0.0",
+      "11.3.0",
+      "11.2.1",
+      "11.1.0"
+    ]
+  },
+  {
+    "package": "psutil",
+    "url": "https://pypi.org/pypi/psutil/json",
+    "sha256": "3afe72fc20f2a965118da21efa973e1ff79fedcb46c6709557d2ee858b7aa015",
+    "selected_versions": [
+      "7.2.2",
+      "7.2.1",
+      "7.2.0",
+      "7.1.3",
+      "7.1.2",
+      "7.1.1",
+      "7.1.0",
+      "7.0.0"
+    ]
+  },
+  {
+    "package": "pyarrow",
+    "url": "https://pypi.org/pypi/pyarrow/json",
+    "sha256": "fb9a0d6949917c7a162a956c36e7516e2c88174c034cf19f65f6c8664113fa87",
+    "selected_versions": [
+      "26.0.0",
+      "25.0.1",
+      "25.0.0",
+      "24.0.0",
+      "23.0.1",
+      "23.0.0",
+      "22.0.0",
+      "21.0.0"
+    ]
+  },
+  {
+    "package": "pydantic-core",
+    "url": "https://pypi.org/pypi/pydantic-core/json",
+    "sha256": "4a8c6976ce05da0e66d02cb39e10c717957fe5d6b91358276f547d2741150d41",
+    "selected_versions": [
+      "2.50.1",
+      "2.50.0",
+      "2.49.0",
+      "2.48.0",
+      "2.47.0",
+      "2.46.5",
+      "2.46.4",
+      "2.46.3"
+    ]
+  },
+  {
+    "package": "safetensors",
+    "url": "https://pypi.org/pypi/safetensors/json",
+    "sha256": "0b048ecf815d2e61aae7ed6a9a3f545931b4ffd2a633525706b621ef93d089d3",
+    "selected_versions": [
+      "0.8.0",
+      "0.7.0",
+      "0.6.2",
+      "0.6.1",
+      "0.5.3",
+      "0.5.2",
+      "0.5.1",
+      "0.5.0"
+    ]
+  },
+  {
+    "package": "scikit-learn",
+    "url": "https://pypi.org/pypi/scikit-learn/json",
+    "sha256": "7f2c77f9da0b1765ccd00fe236628488f1645a0e8d14e2f38bdcc85d2ea477dd",
+    "selected_versions": [
+      "1.9.1",
+      "1.9.0",
+      "1.8.0",
+      "1.7.2",
+      "1.7.1",
+      "1.7.0",
+      "1.6.1",
+      "1.6.0"
+    ]
+  },
+  {
+    "package": "scipy",
+    "url": "https://pypi.org/pypi/scipy/json",
+    "sha256": "a9536ee9b16019746a6ae0e47388eb39311914ff676960cc42beb45cbafe4ed5",
+    "selected_versions": [
+      "1.18.1",
+      "1.18.0",
+      "1.17.1",
+      "1.17.0",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.16.0"
+    ]
+  },
+  {
+    "package": "sentencepiece",
+    "url": "https://pypi.org/pypi/sentencepiece/json",
+    "sha256": "7f00b188528ebf9877b000385251f1fd12fcc8c1bfb43569dbbe021e7d910aa2",
+    "selected_versions": [
+      "0.2.2",
+      "0.2.1",
+      "0.2.0",
+      "0.1.99",
+      "0.1.98",
+      "0.1.97",
+      "0.1.96",
+      "0.1.95"
+    ]
+  },
+  {
+    "package": "tensorflow",
+    "url": "https://pypi.org/pypi/tensorflow/json",
+    "sha256": "1131276b5df32f5396ed0b860a5b53f1a84f6e7339a7acc5373bab41433330a8",
+    "selected_versions": [
+      "2.21.0",
+      "2.20.0",
+      "2.19.1",
+      "2.19.0",
+      "2.18.1",
+      "2.18.0",
+      "2.17.1",
+      "2.17.0"
+    ]
+  },
+  {
+    "package": "tokenizers",
+    "url": "https://pypi.org/pypi/tokenizers/json",
+    "sha256": "9ecd049296db877f48a96fccd9e6ca0dda61af231977bb69d5762904fb64d702",
+    "selected_versions": [
+      "0.23.3",
+      "0.23.2",
+      "0.23.1",
+      "0.22.2",
+      "0.22.1",
+      "0.22.0",
+      "0.21.4",
+      "0.21.2"
+    ]
+  },
+  {
+    "package": "torch",
+    "url": "https://pypi.org/pypi/torch/json",
+    "sha256": "cad63dc8aa6714ea2133a44b64985d87b3e4ebea217657f1e02e35481fa33b61",
+    "selected_versions": [
+      "2.14.1",
+      "2.14.0",
+      "2.13.0",
+      "2.12.1",
+      "2.12.0",
+      "2.11.0",
+      "2.10.0",
+      "2.9.1"
+    ]
+  },
+  {
+    "package": "uvloop",
+    "url": "https://pypi.org/pypi/uvloop/json",
+    "sha256": "60471471dd0d9963e9515075824d67daa3f7247ecc1ba5eef93bc3fd3418b3db",
+    "selected_versions": [
+      "0.23.0",
+      "0.22.1",
+      "0.21.0",
+      "0.20.0",
+      "0.19.0",
+      "0.18.0",
+      "0.17.0",
+      "0.16.0"
+    ]
+  }
+]

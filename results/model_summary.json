@@ -1,0 +1,66 @@
+{
+  "Qwen3-4B": {
+    "direct": {
+      "n": 40,
+      "negatives": 13,
+      "correct": 19,
+      "epistemic_correct": 19,
+      "false_accepts": 5,
+      "abstentions": 7,
+      "raw_label_tokens": 40,
+      "median_tokens": 492.0
+    },
+    "unkeyed": {
+      "n": 40,
+      "negatives": 13,
+      "correct": 15,
+      "epistemic_correct": 20,
+      "false_accepts": 7,
+      "abstentions": 15,
+      "raw_label_tokens": 40,
+      "median_tokens": 728.5
+    },
+    "keyed": {
+      "n": 40,
+      "negatives": 13,
+      "correct": 18,
+      "epistemic_correct": 18,
+      "false_accepts": 2,
+      "abstentions": 10,
+      "raw_label_tokens": 40,
+      "median_tokens": 935.5
+    }
+  },
+  "Qwen2.5-Coder-7B": {
+    "direct": {
+      "n": 12,
+      "negatives": 4,
+      "correct": 8,
+      "epistemic_correct": 8,
+      "false_accepts": 4,
+      "abstentions": 0,
+      "raw_label_tokens": 12,
+      "median_tokens": 505.0
+    },
+    "unkeyed": {
+      "n": 12,
+      "negatives": 4,
+      "correct": 8,
+      "epistemic_correct": 7,
+      "false_accepts": 4,
+      "abstentions": 0,
+      "raw_label_tokens": 12,
+      "median_tokens": 727.0
+    },
+    "keyed": {
+      "n": 12,
+      "negatives": 4,
+      "correct": 8,
+      "epistemic_correct": 8,
+      "false_accepts": 4,
+      "abstentions": 0,
+      "raw_label_tokens": 12,
+      "median_tokens": 942.5
+    }
+  }
+}

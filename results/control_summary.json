@@ -1,0 +1,39 @@
+{
+  "reasoned": {
+    "direct": {
+      "n": 28,
+      "negatives": 14,
+      "correct": 14,
+      "epistemic_correct": 14,
+      "false_accepts": 14,
+      "abstentions": 0,
+      "invalid": 0
+    },
+    "unkeyed": {
+      "n": 28,
+      "negatives": 14,
+      "correct": 14,
+      "epistemic_correct": 11,
+      "false_accepts": 14,
+      "abstentions": 0,
+      "invalid": 0
+    },
+    "keyed": {
+      "n": 28,
+      "negatives": 14,
+      "correct": 16,
+      "epistemic_correct": 16,
+      "false_accepts": 11,
+      "abstentions": 1,
+      "invalid": 0
+    }
+  },
+  "planner": {
+    "n": 28,
+    "strict_schema_valid": 0,
+    "normalized_valid": 28,
+    "normalized_full_row": 28,
+    "normalized_correct": 28,
+    "normalization_post_hoc": true
+  }
+}

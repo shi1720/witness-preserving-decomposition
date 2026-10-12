@@ -1,0 +1,7 @@
+{
+  "universe_tuples": 8,
+  "relations": 256,
+  "view_equivalence_classes": 166,
+  "query_class_checks": 1328,
+  "passed": true
+}

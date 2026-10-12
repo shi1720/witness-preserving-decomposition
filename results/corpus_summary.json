@@ -1,0 +1,149 @@
+{
+  "packages": 28,
+  "relation_rows": 12243,
+  "pairwise_ghosts": 152,
+  "packages_with_ghosts": 14,
+  "matched_tasks": 242,
+  "per_package": [
+    {
+      "id": "aiohttp",
+      "rows_count": 1334,
+      "pairwise_ghosts": 20
+    },
+    {
+      "id": "cffi",
+      "rows_count": 811,
+      "pairwise_ghosts": 20
+    },
+    {
+      "id": "cryptography",
+      "rows_count": 387,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "greenlet",
+      "rows_count": 636,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "grpcio",
+      "rows_count": 546,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "h5py",
+      "rows_count": 300,
+      "pairwise_ghosts": 7
+    },
+    {
+      "id": "jaxlib",
+      "rows_count": 124,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "llvmlite",
+      "rows_count": 244,
+      "pairwise_ghosts": 18
+    },
+    {
+      "id": "lxml",
+      "rows_count": 1195,
+      "pairwise_ghosts": 21
+    },
+    {
+      "id": "ml-dtypes",
+      "rows_count": 253,
+      "pairwise_ghosts": 6
+    },
+    {
+      "id": "numba",
+      "rows_count": 250,
+      "pairwise_ghosts": 11
+    },
+    {
+      "id": "numpy",
+      "rows_count": 390,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "onnxruntime",
+      "rows_count": 200,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "opencv-python",
+      "rows_count": 72,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "orjson",
+      "rows_count": 906,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "pandas",
+      "rows_count": 351,
+      "pairwise_ghosts": 6
+    },
+    {
+      "id": "pillow",
+      "rows_count": 622,
+      "pairwise_ghosts": 8
+    },
+    {
+      "id": "psutil",
+      "rows_count": 202,
+      "pairwise_ghosts": 9
+    },
+    {
+      "id": "pyarrow",
+      "rows_count": 280,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "pydantic-core",
+      "rows_count": 981,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "safetensors",
+      "rows_count": 162,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "scikit-learn",
+      "rows_count": 265,
+      "pairwise_ghosts": 3
+    },
+    {
+      "id": "scipy",
+      "rows_count": 353,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "sentencepiece",
+      "rows_count": 465,
+      "pairwise_ghosts": 11
+    },
+    {
+      "id": "tensorflow",
+      "rows_count": 190,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "tokenizers",
+      "rows_count": 176,
+      "pairwise_ghosts": 0
+    },
+    {
+      "id": "torch",
+      "rows_count": 161,
+      "pairwise_ghosts": 4
+    },
+    {
+      "id": "uvloop",
+      "rows_count": 387,
+      "pairwise_ghosts": 8
+    }
+  ]
+}
